@@ -1,0 +1,20 @@
+body{
+    background-color: peachpuff;
+}
+ul{
+    list-style-type: none;
+    background-color: sandybrown;
+    padding: 15px;
+    border: 3px white solid;
+    
+}
+li{
+    display: inline;
+    margin-right: 15px;
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
